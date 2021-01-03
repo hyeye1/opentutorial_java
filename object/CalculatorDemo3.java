@@ -21,6 +21,7 @@ public class CalculatorDemo3 {
         Calculator3.avg(20, 40);
     }
     
+    // 인스턴스
     // Calculator c1 = new Calculator();
     // c1.set(10, 20);
     // c1.sum();
